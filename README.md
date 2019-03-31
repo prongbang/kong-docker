@@ -3,7 +3,7 @@
 ## Start
 
 ```
-$ docker-compose up -d kong-database --build
+$ docker-compose up -d kong-database
 $ docker-compose up -d --build
 ```
 
